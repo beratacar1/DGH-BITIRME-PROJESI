@@ -1,0 +1,14 @@
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Algoritma-1\bin\Debug\Algoritma-1.exe.config
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Algoritma-1\bin\Debug\Algoritma-1.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Algoritma-1\bin\Debug\Algoritma-1.pdb
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Algoritma-1\obj\Debug\Algoritma-1.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Algoritma-1\obj\Debug\Algoritma-1.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Algoritma-1\obj\Debug\Algoritma-1.exe
+C:\Users\BERAT\Desktop\C# ALGORİTMA ÖRNEK PROJELER\Algoritma-1\obj\Debug\Algoritma-1.pdb
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\Algoritma-1\bin\Debug\Algoritma-1.exe.config
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\Algoritma-1\bin\Debug\Algoritma-1.exe
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\Algoritma-1\bin\Debug\Algoritma-1.pdb
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\Algoritma-1\obj\Debug\Algoritma-1.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\Algoritma-1\obj\Debug\Algoritma-1.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\Algoritma-1\obj\Debug\Algoritma-1.exe
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\Algoritma-1\obj\Debug\Algoritma-1.pdb

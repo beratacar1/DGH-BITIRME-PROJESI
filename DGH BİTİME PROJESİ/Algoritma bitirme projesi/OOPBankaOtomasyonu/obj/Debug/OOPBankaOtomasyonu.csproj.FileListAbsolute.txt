@@ -1,0 +1,7 @@
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\OOPBankaOtomasyonu\bin\Debug\OOPBankaOtomasyonu.exe.config
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\OOPBankaOtomasyonu\bin\Debug\OOPBankaOtomasyonu.exe
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\OOPBankaOtomasyonu\bin\Debug\OOPBankaOtomasyonu.pdb
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\OOPBankaOtomasyonu\obj\Debug\OOPBankaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\OOPBankaOtomasyonu\obj\Debug\OOPBankaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\OOPBankaOtomasyonu\obj\Debug\OOPBankaOtomasyonu.exe
+C:\Users\BERAT\Desktop\Algoritma bitirme projesi\OOPBankaOtomasyonu\obj\Debug\OOPBankaOtomasyonu.pdb
