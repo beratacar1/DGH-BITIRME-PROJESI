@@ -11,9 +11,9 @@
 
 # C Sharp Dilinde Algorima Ödev Soruları ve Çözümleri  Powerpoint , PDF Halinde Sunumu<br/>
 
-# Yazılım ve Bilgisayar Teknolojileriyle İlgili Araştırmaların ve Powerpoint , PDF Halinde Sunumu <br/>
+# Yazılım ve Bilgisayar Teknolojileriyle İlgili Araştırmaların  Powerpoint ve PDF Halinde Sunumu <br/>
 
-# One Page Sayfasının Görselleri ve Powerpoint, PDF haliden sunumu<br/>
+# One Page Sayfasının Görselleri ve Powerpoint, PDF halide sunumu<br/>
 
 
 
